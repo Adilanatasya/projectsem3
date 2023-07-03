@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CustInfo
+comment1.params=
+comment1.target=java.lang.String\ getCustId()
+comment2.params=
+comment2.target=java.lang.String\ getCustIC()
+comment3.params=
+comment3.target=int\ getCounterPaid()
+comment4.params=
+comment4.target=double\ getTotalAmount()
+comment5.params=totalAmount
+comment5.target=void\ setTotalAmount(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

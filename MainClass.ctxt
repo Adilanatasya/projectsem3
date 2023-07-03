@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainClass
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=customersQueue
+comment2.target=void\ processQueues(Queue)
+comment3.params=customer
+comment3.target=void\ processCustomerPayment(CustInfo)
+comment4.params=itemsPurchased
+comment4.target=double\ calculateTotalAmount(java.util.List)
+comment5.params=customer
+comment5.target=void\ displayReceipt(CustInfo)
+comment6.params=dateString
+comment6.target=java.util.Date\ parseDate(java.lang.String)
+numComments=7

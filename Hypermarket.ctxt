@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hypermarket
+comment1.params=
+comment1.target=Hypermarket()
+comment2.params=customer
+comment2.target=void\ addCustomerToQueue(CustInfo)
+comment3.params=customer
+comment3.target=void\ removeCustomerFromQueue(CustInfo)
+comment4.params=customer
+comment4.target=void\ displayReceipt(CustInfo)
+numComments=5
